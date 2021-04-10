@@ -13,6 +13,7 @@ It will translate sign language to english, however, it currently only works wit
 5. To exit the camera, press esc
 
 ## 📒 Notes
+- The Datasets arent included in the github repo because github wont let me upload a folder with more than 100 files and there are around 5000 images in the dataset that I made
 - This was a hackathon project, it is not 100% complete and ready for deploying as I did not have enough time to, but I will be sure to add more features and work on improving and hopefully deploying this app in the future.
 - I still need to work on extending the dataset to include letters as well as numbers to make it more robust
 - Contributers to the project are welcome if you have feature requests or issues, create an issue
